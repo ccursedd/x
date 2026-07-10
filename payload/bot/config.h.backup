@@ -1,0 +1,9 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define C2_ADDRESS "127.0.0.1"
+#define C2_PORT 1337
+#define ARCH_NAME "x86_64"
+// ... rest of config
+#endif
+#define BOT_SECRET_B64 "kZPUbHYdNYRDXBjbR4SeWvUfvD5Sc90wMrC8XGa2Z54="
